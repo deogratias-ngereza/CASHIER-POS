@@ -1,0 +1,7 @@
+{
+	"server_ip" : "localhost",
+	"user" : "grand",
+	"password" : "password",
+	"database" : "poa_supermarket",
+	"port" : 3306
+}

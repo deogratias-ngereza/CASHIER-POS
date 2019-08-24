@@ -1,0 +1,44 @@
+C:\Users\grand\AppData\Local\Temporary Projects\G-POS-Form\obj\x86\Debug\G_POS_Form.Form1.resources
+C:\Users\grand\AppData\Local\Temporary Projects\G-POS-Form\obj\x86\Debug\G_POS.Properties.Resources.resources
+C:\Users\grand\AppData\Local\Temporary Projects\G-POS-Form\obj\x86\Debug\G-POS.csproj.GenerateResource.Cache
+C:\Users\grand\AppData\Local\Temporary Projects\G-POS-Form\bin\Debug\G-POS.exe
+C:\Users\grand\AppData\Local\Temporary Projects\G-POS-Form\bin\Debug\G-POS.pdb
+C:\Users\grand\AppData\Local\Temporary Projects\G-POS-Form\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\grand\AppData\Local\Temporary Projects\G-POS-Form\bin\Debug\InputSimulator.dll
+C:\Users\grand\AppData\Local\Temporary Projects\G-POS-Form\bin\Debug\itextsharp.dll
+C:\Users\grand\AppData\Local\Temporary Projects\G-POS-Form\bin\Debug\MySql.Data.dll
+C:\Users\grand\AppData\Local\Temporary Projects\G-POS-Form\bin\Debug\Newtonsoft.Json.dll
+C:\Users\grand\AppData\Local\Temporary Projects\G-POS-Form\bin\Debug\NPOI.dll
+C:\Users\grand\AppData\Local\Temporary Projects\G-POS-Form\bin\Debug\Transitions.dll
+C:\Users\grand\AppData\Local\Temporary Projects\G-POS-Form\bin\Debug\InputSimulator.pdb
+C:\Users\grand\AppData\Local\Temporary Projects\G-POS-Form\bin\Debug\InputSimulator.xml
+C:\Users\grand\AppData\Local\Temporary Projects\G-POS-Form\bin\Debug\NPOI.xml
+C:\Users\grand\AppData\Local\Temporary Projects\G-POS-Form\obj\x86\Debug\G-POS.csprojResolveAssemblyReference.cache
+C:\Users\grand\AppData\Local\Temporary Projects\G-POS-Form\obj\x86\Debug\G-POS.exe
+C:\Users\grand\AppData\Local\Temporary Projects\G-POS-Form\obj\x86\Debug\G-POS.pdb
+C:\Users\grand\AppData\Local\Temporary Projects\G-POS-Form\obj\x86\Debug\G_POS.POS.Forms.LoginForm.resources
+D:\GRAND_PRO\PROJECTS\POA_SUPERMARKET\visual_studio\CASHIER_POS\G-POS\G-POS\obj\x86\Debug\G-POS.exe
+D:\GRAND_PRO\PROJECTS\POA_SUPERMARKET\visual_studio\CASHIER_POS\G-POS\G-POS\obj\x86\Debug\G-POS.pdb
+D:\GRAND_PRO\PROJECTS\POA_SUPERMARKET\visual_studio\CASHIER_POS\G-POS\G-POS\bin\Debug\G-POS.exe
+D:\GRAND_PRO\PROJECTS\POA_SUPERMARKET\visual_studio\CASHIER_POS\G-POS\G-POS\bin\Debug\G-POS.pdb
+D:\GRAND_PRO\PROJECTS\POA_SUPERMARKET\visual_studio\CASHIER_POS\G-POS\G-POS\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\GRAND_PRO\PROJECTS\POA_SUPERMARKET\visual_studio\CASHIER_POS\G-POS\G-POS\bin\Debug\InputSimulator.dll
+D:\GRAND_PRO\PROJECTS\POA_SUPERMARKET\visual_studio\CASHIER_POS\G-POS\G-POS\bin\Debug\itextsharp.dll
+D:\GRAND_PRO\PROJECTS\POA_SUPERMARKET\visual_studio\CASHIER_POS\G-POS\G-POS\bin\Debug\MySql.Data.dll
+D:\GRAND_PRO\PROJECTS\POA_SUPERMARKET\visual_studio\CASHIER_POS\G-POS\G-POS\bin\Debug\Newtonsoft.Json.dll
+D:\GRAND_PRO\PROJECTS\POA_SUPERMARKET\visual_studio\CASHIER_POS\G-POS\G-POS\bin\Debug\NPOI.dll
+D:\GRAND_PRO\PROJECTS\POA_SUPERMARKET\visual_studio\CASHIER_POS\G-POS\G-POS\bin\Debug\Transitions.dll
+D:\GRAND_PRO\PROJECTS\POA_SUPERMARKET\visual_studio\CASHIER_POS\G-POS\G-POS\bin\Debug\InputSimulator.pdb
+D:\GRAND_PRO\PROJECTS\POA_SUPERMARKET\visual_studio\CASHIER_POS\G-POS\G-POS\bin\Debug\InputSimulator.xml
+D:\GRAND_PRO\PROJECTS\POA_SUPERMARKET\visual_studio\CASHIER_POS\G-POS\G-POS\bin\Debug\NPOI.xml
+D:\GRAND_PRO\PROJECTS\POA_SUPERMARKET\visual_studio\CASHIER_POS\G-POS\G-POS\obj\x86\Debug\G-POS.csprojResolveAssemblyReference.cache
+D:\GRAND_PRO\PROJECTS\POA_SUPERMARKET\visual_studio\CASHIER_POS\G-POS\G-POS\obj\x86\Debug\G_POS_Form.Form1.resources
+D:\GRAND_PRO\PROJECTS\POA_SUPERMARKET\visual_studio\CASHIER_POS\G-POS\G-POS\obj\x86\Debug\G_POS.POS.Forms.LoginForm.resources
+D:\GRAND_PRO\PROJECTS\POA_SUPERMARKET\visual_studio\CASHIER_POS\G-POS\G-POS\obj\x86\Debug\G_POS.Properties.Resources.resources
+D:\GRAND_PRO\PROJECTS\POA_SUPERMARKET\visual_studio\CASHIER_POS\G-POS\G-POS\obj\x86\Debug\G-POS.csproj.GenerateResource.Cache
+D:\GRAND_PRO\PROJECTS\POA_SUPERMARKET\visual_studio\CASHIER_POS\G-POS\G-POS\obj\x86\Debug\G_POS.POS.Forms.POSForm.resources
+D:\GRAND_PRO\PROJECTS\POA_SUPERMARKET\visual_studio\CASHIER_POS\G-POS\G-POS\obj\x86\Debug\G_POS.POS.Controls.POS.ReceiptGeneratorControl.resources
+D:\GRAND_PRO\PROJECTS\POA_SUPERMARKET\visual_studio\CASHIER_POS\G-POS\G-POS\obj\x86\Debug\G_POS.POS.Forms.CompleteOrderForm.resources
+D:\GRAND_PRO\PROJECTS\POA_SUPERMARKET\visual_studio\CASHIER_POS\G-POS\G-POS\obj\x86\Debug\G_POS.POS.Forms.TestPOS.resources
+D:\GRAND_PRO\PROJECTS\POA_SUPERMARKET\visual_studio\CASHIER_POS\G-POS\G-POS\obj\x86\Debug\G_POS.POS.Forms.SalesForm.resources
+D:\GRAND_PRO\PROJECTS\POA_SUPERMARKET\visual_studio\CASHIER_POS\G-POS\G-POS\obj\x86\Debug\G_POS.POS.Controls.POS.ProductFinderControl.resources

@@ -1,0 +1,1 @@
+{"tbl_name":"workers","primary_key":null,"id":7,"company_id":1,"full_name":"cashier","username":"cashier","phone":"799000000","email":"test121233@mailnator.com","password":"password","address":"DAR","role":"CASHIER","created_at":"3/14/2019 11:24:24 AM","fcm_token":"","fcm_updated_at":"3/14/2019 11:24:24 AM","deleted":0}

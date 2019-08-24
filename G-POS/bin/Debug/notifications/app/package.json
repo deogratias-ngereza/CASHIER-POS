@@ -1,0 +1,14 @@
+{
+  "name": "notification",
+  "version": "1.0.0",
+  "description": "restaurant notification sender and receiver",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "grandMaster",
+  "license": "ISC",
+  "dependencies": {
+    "faye": "^1.2.4"
+  }
+}
